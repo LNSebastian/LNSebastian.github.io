@@ -1,0 +1,27 @@
+[
+    {
+        "school":"[Transylvania University of Brasov](https://www.unitbv.ro)",
+        "degree":"Bachelor of Science",
+        "major":"Business Management and Engineering",
+        "range":"2013 - 2017"
+    },
+
+    {
+        "school":"[Python](https://www.udemy.com/certificate/UC-70374d7f-f8b7-438d-892b-99ff9f7942be/)",
+        "degree":"Certificate of Completion",
+        "range":"2020"
+    },
+
+    {
+        "school":"[Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/certificate/UC-6915dc6a-2282-47c3-bedc-17d92f0e23d6/)",
+        "degree":"Certificate of Completion",
+        "range":"2020"
+    },
+
+    {
+        "school":"[PostgreSQL](https://www.udemy.com/certificate/UC-19e93854-66c5-477e-848f-83d4cf391675/)",
+        "degree":"Certificate of Completion",
+        "range":"2020"
+    }
+]
+

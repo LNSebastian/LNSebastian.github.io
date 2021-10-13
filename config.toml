@@ -1,0 +1,39 @@
+title = "Sebastian Lubene"
+baseURL = "https://lubene.dev/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Brasov, RO"
+email = "sebastian@lubene.dev"
+favicon = "/favicon.ico"
+firstName = "Sebastian"
+lastName = "Lubene"
+phone = "0756782734"
+profileImage = "img/sebi.jpeg"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = true
+showPublications = false
+showQr = false
+showSkills = true
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/sebastian-lubene/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/LNSebastian/"
+name = "GitHub"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
+

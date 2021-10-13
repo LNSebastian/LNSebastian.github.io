@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Sebastian Lubene</title>
+    <link>https://lubene.dev/tags/</link>
+    <description>Recent content in Tags on Sebastian Lubene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate>
+    
+	<atom:link href="https://lubene.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Docker</title>
+      <link>https://lubene.dev/tags/docker/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://lubene.dev/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>https://lubene.dev/tags/javascript/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://lubene.dev/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JSON</title>
+      <link>https://lubene.dev/tags/json/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://lubene.dev/tags/json/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>node.js</title>
+      <link>https://lubene.dev/tags/node.js/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://lubene.dev/tags/node.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REST APIs</title>
+      <link>https://lubene.dev/tags/rest-apis/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://lubene.dev/tags/rest-apis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agile</title>
+      <link>https://lubene.dev/tags/agile/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://lubene.dev/tags/agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Delivery</title>
+      <link>https://lubene.dev/tags/continuous-delivery/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://lubene.dev/tags/continuous-delivery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Integration</title>
+      <link>https://lubene.dev/tags/continuous-integration/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://lubene.dev/tags/continuous-integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Culture</title>
+      <link>https://lubene.dev/tags/culture/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://lubene.dev/tags/culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://lubene.dev/tags/devops/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://lubene.dev/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apache</title>
+      <link>https://lubene.dev/tags/apache/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://lubene.dev/tags/apache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redirect</title>
+      <link>https://lubene.dev/tags/redirect/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://lubene.dev/tags/redirect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rewrite</title>
+      <link>https://lubene.dev/tags/rewrite/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://lubene.dev/tags/rewrite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssl</title>
+      <link>https://lubene.dev/tags/ssl/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://lubene.dev/tags/ssl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web development</title>
+      <link>https://lubene.dev/tags/web-development/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://lubene.dev/tags/web-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bamboo</title>
+      <link>https://lubene.dev/tags/bamboo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lubene.dev/tags/bamboo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bash/Shell</title>
+      <link>https://lubene.dev/tags/bash/shell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lubene.dev/tags/bash/shell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CI/CD pipelines</title>
+      <link>https://lubene.dev/tags/ci/cd-pipelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lubene.dev/tags/ci/cd-pipelines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://lubene.dev/tags/java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lubene.dev/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jQuery</title>
+      <link>https://lubene.dev/tags/jquery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lubene.dev/tags/jquery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven</title>
+      <link>https://lubene.dev/tags/maven/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lubene.dev/tags/maven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://lubene.dev/tags/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lubene.dev/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tableau</title>
+      <link>https://lubene.dev/tags/tableau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lubene.dev/tags/tableau/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

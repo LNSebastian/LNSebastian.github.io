@@ -1,0 +1,16 @@
+[
+  {
+      "grouping":"Business Intelligence Tools",
+      "skills":["Power BI", "Tableau","Google Data Studio"]
+  },{
+      "grouping":"Languages",
+      "skills":["Python","SQL" ]
+  },
+  {
+      "grouping":"Data Management",
+      "skills":[
+      
+        {"name":"PostgreSQL","icon":"database"}
+      ]
+  }
+]
