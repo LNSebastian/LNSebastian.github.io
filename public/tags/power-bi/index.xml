@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Power BI on Sebastian Lubene</title>
+    <link>https://lubene.dev/tags/power-bi/</link>
+    <description>Recent content in Power BI on Sebastian Lubene</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://lubene.dev/tags/power-bi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dashboard - Adventure Work </title>
+      <link>https://lubene.dev/projects/creations/adventurework/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lubene.dev/projects/creations/adventurework/</guid>
+      <description>This project is about designing and delivering a professional-quality, end-to-end business intelligence solution using Microsoft Power BI.
+I&amp;rsquo;ll be working through the entire business intelligence workflow:
+ Connecting and shaping the source data Building a relational model Adding calculated columns and measures Designing an interactive report  </description>
+    </item>
+    
+    <item>
+      <title>Dashboard - Maven Market</title>
+      <link>https://lubene.dev/projects/creations/mavenmarket/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lubene.dev/projects/creations/mavenmarket/</guid>
+      <description>This project is about designing and delivering a professional-quality, end-to-end business intelligence solution using Microsoft Power BI.
+I&amp;rsquo;ll be working through the entire business intelligence workflow:
+ Connecting and shaping the source data Building a relational model Adding calculated columns and measures Designing an interactive report  If you want to access a certain Product Name by a specific Product Brand in Product dashboard, in Topline Performance dashboard right click on the Product Brand, select Drill through and Product.</description>
+    </item>
+    
+  </channel>
+</rss>

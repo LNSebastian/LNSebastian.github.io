@@ -11,26 +11,29 @@
     
     
     <item>
+      <title>Beer Servings</title>
+      <link>https://lubene.dev/projects/creations/beer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lubene.dev/projects/creations/beer/</guid>
+      <description>In this project we take a quick look at beer consumption over the word.
+Python libraries used: Pandas, Numpy, Matplotlib, Seaborn
+Some queries in the project:
+ Countries where it doesn&amp;rsquo;t exist informations about beer consumption Total beer consumed by countries that consumed less than 100 per servings Calculate the average, median, min and max of beer servings Find top 10 largest and smallest beer consuming countries  </description>
+    </item>
+    
+    <item>
       <title>Demographic data</title>
       <link>https://lubene.dev/projects/creations/demographic_data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lubene.dev/projects/creations/demographic_data/</guid>
       <description>For this project I used Python libraries: Pandas and Numpy
-This project consists in answering the following questions:
+This project consists in analyzing a dataset of demographic data that was extracted from the 1994 Census database.\
+To do that, I&amp;rsquo;ll be answering the following questions:
   How many people of each race are represented in this dataset?
   What is the average age of men?
-  What is the percentage of people who have a Bachelor&amp;rsquo;s degree?
-  What percentage of people with advanced education (Bachelors, Masters, or Doctorate) make more than 50K?</description>
-    </item>
-    
-    <item>
-      <title>Docker image for Bitbucket CI/CD Pipelines  &#34;shipit&#34;</title>
-      <link>https://lubene.dev/projects/creations/docker-marketplace/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lubene.dev/projects/creations/docker-marketplace/</guid>
-      <description>Provides required dependencies and additional utilities to simplify and codify the process of building, testing and delivering Atlassian plugins all the way to the live marketplace.Executes integration/AUT level tests against all stated compatible versions for the productUploads generated artifact to Atlassian marketplaceProvides corresponding metadata indicating version, release notes, and compatibility</description>
+  What is the percentage of people who have a Bachelor&amp;rsquo;s degree?</description>
     </item>
     
     <item>
@@ -39,14 +42,10 @@ This project consists in answering the following questions:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lubene.dev/projects/creations/movie-correlation/</guid>
-      <description>For this project I used Python libraries: Pandas, Numpy, Matplotlib, Seaborn
+      <description>In this project we look at what variables effect the gross revenue from movies.
+Python libraries used: Pandas, Numpy, Matplotlib, Seaborn
 Steps:
-  Import Python libraries
-  Read in Data using Pandas
-  Check for missing data
-  Data cleaning
-  Find correlations in the data
-  </description>
+ Import Python libraries Read in Data using Pandas Check for missing data Data cleaning Find correlations in the data  </description>
     </item>
     
   </channel>
