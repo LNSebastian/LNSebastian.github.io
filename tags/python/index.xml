@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python on Sebastian Lubene</title><link>https://lubene.dev/tags/python/</link><description>Recent content in Python on Sebastian Lubene</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://lubene.dev/tags/python/index.xml" rel="self" type="application/rss+xml"/><item><title>Beer Servings</title><link>https://lubene.dev/projects/creations/beer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lubene.dev/projects/creations/beer/</guid><description>In this project we take a quick look at beer consumption over the word.
+Python libraries used: Pandas, Numpy, Matplotlib, Seaborn
+Some queries in the project:
+Countries where it doesn&amp;rsquo;t exist informations about beer consumption Total beer consumed by countries that consumed less than 100 per servings Calculate the average, median, min and max of beer servings Find top 10 largest and smallest beer consuming countries</description></item><item><title>Demographic data</title><link>https://lubene.dev/projects/creations/demographic_data/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lubene.dev/projects/creations/demographic_data/</guid><description>For this project I used Python libraries: Pandas and Numpy
+This project consists in analyzing a dataset of demographic data that was extracted from the 1994 Census database.\
+To do that, I&amp;rsquo;ll be answering the following questions:
+How many people of each race are represented in this dataset?
+What is the average age of men?
+What is the percentage of people who have a Bachelor&amp;rsquo;s degree?</description></item><item><title>Movie Correlation</title><link>https://lubene.dev/projects/creations/movie-correlation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lubene.dev/projects/creations/movie-correlation/</guid><description>In this project we look at what variables effect the gross revenue from movies.
+Python libraries used: Pandas, Numpy, Matplotlib, Seaborn
+Steps:
+Import Python libraries Read in Data using Pandas Check for missing data Data cleaning Find correlations in the data</description></item></channel></rss>
