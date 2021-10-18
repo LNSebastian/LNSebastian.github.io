@@ -1,167 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Home on Sebastian Lubene</title>
-    <link>https://www.lubene.dev/</link>
-    <description>Recent content in Home on Sebastian Lubene</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate>
-    
-	<atom:link href="https://www.lubene.dev/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Atlassian Deployment Triggers</title>
-      <link>https://www.lubene.dev/projects/contributions/deploy-triggers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.lubene.dev/projects/contributions/deploy-triggers/</guid>
-      <description>Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.</description>
-    </item>
-    
-    <item>
-      <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
-      <link>https://www.lubene.dev/publications/alldaydevops/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.lubene.dev/publications/alldaydevops/</guid>
-      <description>This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
- Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description>
-    </item>
-    
-    <item>
-      <title>Added Docker Build Status Badge to shields.io</title>
-      <link>https://www.lubene.dev/projects/contributions/shields-docker/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      
-      <guid>https://www.lubene.dev/projects/contributions/shields-docker/</guid>
-      <description>Shields.io is a massive library of badges that can be inserted into project README&amp;rsquo;s or websites displaying various statuses (code coverage, health, version, etc). Support for docker was missing the current build health, and was a pretty trivial addition.</description>
-    </item>
-    
-    <item>
-      <title>Schema.org Structured Data documentation fixes</title>
-      <link>https://www.lubene.dev/projects/contributions/schema-org/</link>
-      <pubDate>Tue, 07 Jan 2020 17:08:21 +0000</pubDate>
-      
-      <guid>https://www.lubene.dev/projects/contributions/schema-org/</guid>
-      <description>While adding Structured Data to a client&amp;rsquo;s website I found some example JSON that was invalid. Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</description>
-    </item>
-    
-    <item>
-      <title>Forcing Visits to use SSL</title>
-      <link>https://www.lubene.dev/blog/force-ssl/</link>
-      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      
-      <guid>https://www.lubene.dev/blog/force-ssl/</guid>
-      <description>Intro Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
- First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;rdquo; attack.</description>
-    </item>
-    
-    <item>
-      <title>Beer Servings</title>
-      <link>https://www.lubene.dev/projects/creations/beer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.lubene.dev/projects/creations/beer/</guid>
-      <description>In this project we take a quick look at beer consumption over the word.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Sebastian Lubene</title><link>https://www.lubene.dev/</link><description>Recent content in Home on Sebastian Lubene</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://www.lubene.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Atlassian Deployment Triggers</title><link>https://www.lubene.dev/projects/contributions/deploy-triggers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.lubene.dev/projects/contributions/deploy-triggers/</guid><description>Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.</description></item><item><title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title><link>https://www.lubene.dev/publications/alldaydevops/</link><pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate><guid>https://www.lubene.dev/publications/alldaydevops/</guid><description>This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
+Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description></item><item><title>Added Docker Build Status Badge to shields.io</title><link>https://www.lubene.dev/projects/contributions/shields-docker/</link><pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate><guid>https://www.lubene.dev/projects/contributions/shields-docker/</guid><description>Shields.io is a massive library of badges that can be inserted into project README&amp;rsquo;s or websites displaying various statuses (code coverage, health, version, etc). Support for docker was missing the current build health, and was a pretty trivial addition.</description></item><item><title>Schema.org Structured Data documentation fixes</title><link>https://www.lubene.dev/projects/contributions/schema-org/</link><pubDate>Tue, 07 Jan 2020 17:08:21 +0000</pubDate><guid>https://www.lubene.dev/projects/contributions/schema-org/</guid><description>While adding Structured Data to a client&amp;rsquo;s website I found some example JSON that was invalid. Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</description></item><item><title>Forcing Visits to use SSL</title><link>https://www.lubene.dev/blog/force-ssl/</link><pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate><guid>https://www.lubene.dev/blog/force-ssl/</guid><description>Intro Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
+First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;rdquo; attack.</description></item><item><title>Beer Servings</title><link>https://www.lubene.dev/projects/creations/beer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.lubene.dev/projects/creations/beer/</guid><description>In this project we take a quick look at beer consumption over the word.
 Python libraries used: Pandas, Numpy, Matplotlib, Seaborn
 Some queries in the project:
- Countries where it doesn&amp;rsquo;t exist informations about beer consumption Total beer consumed by countries that consumed less than 100 per servings Calculate the average, median, min and max of beer servings Find top 10 largest and smallest beer consuming countries  </description>
-    </item>
-    
-    <item>
-      <title>Covid19 Data Cleansing</title>
-      <link>https://www.lubene.dev/projects/creations/covid19/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.lubene.dev/projects/creations/covid19/</guid>
-      <description>This project consists in analysing data about cases, deaths, vaccinations on Covid-19 over the world.
+Countries where it doesn&amp;rsquo;t exist informations about beer consumption Total beer consumed by countries that consumed less than 100 per servings Calculate the average, median, min and max of beer servings Find top 10 largest and smallest beer consuming countries</description></item><item><title>Covid19 Data Cleansing</title><link>https://www.lubene.dev/projects/creations/covid19/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.lubene.dev/projects/creations/covid19/</guid><description>This project consists in analysing data about cases, deaths, vaccinations on Covid-19 over the world.
 We&amp;rsquo;ll look at:
- Total cases vs Total deaths Total cases vs population Countries with highest infection rate compare to population Countries with highest death count per population Total population vs vaccinations  </description>
-    </item>
-    
-    <item>
-      <title>Dashboard - Adventure Work </title>
-      <link>https://www.lubene.dev/projects/creations/adventurework/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.lubene.dev/projects/creations/adventurework/</guid>
-      <description>This project is about designing and delivering a professional-quality, end-to-end business intelligence solution using Microsoft Power BI.
+Total cases vs Total deaths Total cases vs population Countries with highest infection rate compare to population Countries with highest death count per population Total population vs vaccinations</description></item><item><title>Dashboard - Adventure Work</title><link>https://www.lubene.dev/projects/creations/adventurework/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.lubene.dev/projects/creations/adventurework/</guid><description>This project is about designing and delivering a professional-quality, end-to-end business intelligence solution using Microsoft Power BI.
 I&amp;rsquo;ll be working through the entire business intelligence workflow:
- Connecting and shaping the source data Building a relational model Adding calculated columns and measures Designing an interactive report  </description>
-    </item>
-    
-    <item>
-      <title>Dashboard - Covid-19</title>
-      <link>https://www.lubene.dev/projects/creations/covid/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.lubene.dev/projects/creations/covid/</guid>
-      <description>In this project I will be taking some of the SQL queries I worked in the SQL data exploration project Covid19 Data Cleansingand creating visualization in Tableau.
+Connecting and shaping the source data Building a relational model Adding calculated columns and measures Designing an interactive report</description></item><item><title>Dashboard - Covid-19</title><link>https://www.lubene.dev/projects/creations/covid/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.lubene.dev/projects/creations/covid/</guid><description>In this project I will be taking some of the SQL queries I worked in the SQL data exploration project Covid19 Data Cleansingand creating visualization in Tableau.
 Create dashboard
- Total Deaths per continent Percent population infected ( actual and estimate) Percent population infected per country Global numbers (Total cases, deaths, and death percentage)  </description>
-    </item>
-    
-    <item>
-      <title>Dashboard - Maven Market</title>
-      <link>https://www.lubene.dev/projects/creations/mavenmarket/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.lubene.dev/projects/creations/mavenmarket/</guid>
-      <description>This project is about designing and delivering a professional-quality, end-to-end business intelligence solution using Microsoft Power BI.
+Total Deaths per continent Percent population infected ( actual and estimate) Percent population infected per country Global numbers (Total cases, deaths, and death percentage)</description></item><item><title>Dashboard - Maven Market</title><link>https://www.lubene.dev/projects/creations/mavenmarket/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.lubene.dev/projects/creations/mavenmarket/</guid><description>This project is about designing and delivering a professional-quality, end-to-end business intelligence solution using Microsoft Power BI.
 I&amp;rsquo;ll be working through the entire business intelligence workflow:
- Connecting and shaping the source data Building a relational model Adding calculated columns and measures Designing an interactive report  If you want to access a certain Product Name by a specific Product Brand in Product dashboard, in Topline Performance dashboard right click on the Product Brand, select Drill through and Product.</description>
-    </item>
-    
-    <item>
-      <title>Demographic data</title>
-      <link>https://www.lubene.dev/projects/creations/demographic_data/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.lubene.dev/projects/creations/demographic_data/</guid>
-      <description>For this project I used Python libraries: Pandas and Numpy
+Connecting and shaping the source data Building a relational model Adding calculated columns and measures Designing an interactive report If you want to access a certain Product Name by a specific Product Brand in Product dashboard, in Topline Performance dashboard right click on the Product Brand, select Drill through and Product.</description></item><item><title>Demographic data</title><link>https://www.lubene.dev/projects/creations/demographic_data/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.lubene.dev/projects/creations/demographic_data/</guid><description>For this project I used Python libraries: Pandas and Numpy
 This project consists in analyzing a dataset of demographic data that was extracted from the 1994 Census database.\
 To do that, I&amp;rsquo;ll be answering the following questions:
-  How many people of each race are represented in this dataset?
-  What is the average age of men?
-  What is the percentage of people who have a Bachelor&amp;rsquo;s degree?</description>
-    </item>
-    
-    <item>
-      <title>Movie Correlation</title>
-      <link>https://www.lubene.dev/projects/creations/movie-correlation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.lubene.dev/projects/creations/movie-correlation/</guid>
-      <description>In this project we look at what variables effect the gross revenue from movies.
+How many people of each race are represented in this dataset?
+What is the average age of men?
+What is the percentage of people who have a Bachelor&amp;rsquo;s degree?</description></item><item><title>Movie Correlation</title><link>https://www.lubene.dev/projects/creations/movie-correlation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.lubene.dev/projects/creations/movie-correlation/</guid><description>In this project we look at what variables effect the gross revenue from movies.
 Python libraries used: Pandas, Numpy, Matplotlib, Seaborn
 Steps:
- Import Python libraries Read in Data using Pandas Check for missing data Data cleaning Find correlations in the data  </description>
-    </item>
-    
-    <item>
-      <title>Schools Salaries</title>
-      <link>https://www.lubene.dev/projects/creations/schools/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.lubene.dev/projects/creations/schools/</guid>
-      <description>This project consists in analysing data about salaries of different type of schools (Engineering, Ivies, Liberal Arts, State).</description>
-    </item>
-    
-    <item>
-      <title>Search Results</title>
-      <link>https://www.lubene.dev/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.lubene.dev/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
+Import Python libraries Read in Data using Pandas Check for missing data Data cleaning Find correlations in the data</description></item><item><title>Schools Salaries</title><link>https://www.lubene.dev/projects/creations/schools/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.lubene.dev/projects/creations/schools/</guid><description>This project consists in analysing data about salaries of different type of schools (Engineering, Ivies, Liberal Arts, State).</description></item><item><title>Search Results</title><link>https://www.lubene.dev/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.lubene.dev/search/</guid><description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
 Initial setup Search depends on additional output content type of JSON in config.toml
-[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
-    </item>
-    
-  </channel>
-</rss>
+[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description></item></channel></rss>
