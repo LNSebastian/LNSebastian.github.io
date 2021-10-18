@@ -2,7 +2,7 @@
   "title": "Dashboard - Adventure Work ",
   
   "image":"/img/AW.jpg",
-  "link": "https://app.powerbi.com/groups/me/reports/252f2e03-cdd4-4734-afae-4ffe64ba25ba/ReportSection", "https://app.powerbi.com/view?r=eyJrIjoiZWIzM2NmMDYtOTk5Zi00ZjJmLTk1NTctMWFkYWJlYTk4ZjZiIiwidCI6IjUyYWJlYWQzLTYzNjktNGFmNi1iOTY0LTMwYzJhYzE3ODZkNiIsImMiOjl9"
+  "link": "https://app.powerbi.com/view?r=eyJrIjoiZWIzM2NmMDYtOTk5Zi00ZjJmLTk1NTctMWFkYWJlYTk4ZjZiIiwidCI6IjUyYWJlYWQzLTYzNjktNGFmNi1iOTY0LTMwYzJhYzE3ODZkNiIsImMiOjl9&pageName=ReportSection" 
   "image": "/img/AW.jpg",
   "description": "This project is about designing and delivering a professional-quality, end-to-end busibess intelligence solution using Microsoft Power BI.",
   "tags": ["Power BI"],
